@@ -39,11 +39,6 @@ a {
   justify-content: flex-end;
 }
 
-/* .main-nav {
-  display: flex;
-  justify-content: flex-end;
-} */
-
 .main-nav li {
   margin: 24px;
   text-transform: uppercase;
